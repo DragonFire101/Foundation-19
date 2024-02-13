@@ -4927,8 +4927,8 @@
 /obj/effect/paint_stripe/red,
 /obj/machinery/button/alternate/door/bolts{
 	dir = 8;
-	id_tag = cell6;
-	name = "Cell 6 Bolts"
+	name = "Cell 6 Bolts";
+	id_tag = "cell6"
 	},
 /turf/simulated/wall/prepainted,
 /area/site53/uez/equipmentroom)
@@ -5869,7 +5869,7 @@
 "Dv" = (
 /obj/machinery/door/airlock/glass{
 	name = "EZ Brig Cell 6";
-	id_tag = cell6
+	id_tag = "cell6"
 	},
 /turf/simulated/floor/tiled/dark,
 /area/site53/uez/equipmentroom)
@@ -5937,7 +5937,7 @@
 "Ed" = (
 /obj/machinery/door/airlock/glass{
 	name = "EZ Brig Cell 3";
-	id_tag = cell3
+	id_tag = "cell3"
 	},
 /turf/simulated/floor/tiled/dark,
 /area/site53/uez/equipmentroom)
@@ -5971,7 +5971,7 @@
 "En" = (
 /obj/machinery/door/airlock/glass{
 	name = "EZ Brig Cell 2";
-	id_tag = cell2
+	id_tag = "cell2"
 	},
 /turf/simulated/floor/tiled/dark,
 /area/site53/uez/equipmentroom)
@@ -6361,7 +6361,7 @@
 /obj/machinery/button/alternate/door/bolts{
 	dir = 4;
 	name = "Cell 3 Bolts";
-	id_tag = cell3
+	id_tag = "cell3"
 	},
 /turf/simulated/wall/prepainted,
 /area/site53/uez/equipmentroom)
@@ -6387,7 +6387,7 @@
 /obj/effect/paint_stripe/red,
 /obj/machinery/button/alternate/door/bolts{
 	dir = 4;
-	id_tag = cell2;
+	id_tag = "cell2";
 	name = "Cell 2 Bolts"
 	},
 /turf/simulated/wall/prepainted,
@@ -6410,7 +6410,7 @@
 /obj/effect/paint_stripe/red,
 /obj/machinery/button/alternate/door/bolts{
 	dir = 4;
-	id_tag = cell4;
+	id_tag = "cell4";
 	name = "Cell 4 Bolts"
 	},
 /turf/simulated/wall/prepainted,
@@ -6857,7 +6857,7 @@
 "LU" = (
 /obj/machinery/door/airlock/glass{
 	name = "EZ Brig Cell 5";
-	id_tag = cell5
+	id_tag = "cell5"
 	},
 /turf/simulated/floor/tiled/dark,
 /area/site53/uez/equipmentroom)
@@ -7634,7 +7634,7 @@
 /obj/machinery/button/alternate/door/bolts{
 	dir = 4;
 	name = "Cell 1 Bolts";
-	id_tag = cell1
+	id_tag = "cell1"
 	},
 /turf/simulated/wall/prepainted,
 /area/site53/uez/equipmentroom)
@@ -7750,7 +7750,7 @@
 /obj/effect/paint_stripe/red,
 /obj/machinery/button/alternate/door/bolts{
 	dir = 8;
-	id_tag = cell5;
+	id_tag = "cell5";
 	name = "Cell 5 Bolts"
 	},
 /turf/simulated/wall/prepainted,
@@ -8156,7 +8156,7 @@
 "VK" = (
 /obj/machinery/door/airlock/glass{
 	name = "EZ Brig Cell 1";
-	id_tag = cell1
+	id_tag = "cell1"
 	},
 /turf/simulated/floor/tiled/dark,
 /area/site53/uez/equipmentroom)
@@ -8266,7 +8266,7 @@
 "WH" = (
 /obj/machinery/door/airlock/glass{
 	name = "EZ Brig Cell 4";
-	id_tag = cell4
+	id_tag = "cell4"
 	},
 /turf/simulated/floor/tiled/dark,
 /area/site53/uez/equipmentroom)
